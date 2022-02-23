@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact relation of the barbarous murder committed on Lawrence Corddel a butcher who was buryed alive at Christ Church on Fryday last ... with lamentable screeks, groans, and horrid cryes made by him in his grave on Sunday night, and the sad, wounded, and mortify'd condition he was taken up in on Munday, June 24 : as also the examination and confession of his land-lord and land-lady ... before the Right Honorable the Lord Mayor of London by whom they were both committed to New-gate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38949</idno>
+            <idno type="STC">Wing E3682</idno>
+            <idno type="STC">ESTC R26697</idno>
+            <idno type="EEBO-CITATION">09523522</idno>
+            <idno type="OCLC">ocm 09523522</idno>
+            <idno type="VID">43470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact relation of the barbarous murder committed on Lawrence Corddel a butcher who was buryed alive at Christ Church on Fryday last ... with lamentable screeks, groans, and horrid cryes made by him in his grave on Sunday night, and the sad, wounded, and mortify'd condition he was taken up in on Munday, June 24 : as also the examination and confession of his land-lord and land-lady ... before the Right Honorable the Lord Mayor of London by whom they were both committed to New-gate.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A true relation of a butcher in Pilcock-lane.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Corddel, Lawrence.</term>
+               <term>Murder --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43470:1"/>
+            <pb facs="tcp:43470:1"/>
+            <p>AN EXACT RELATION OF THE Barbarous Murder COMMITTED ON LAWRENCE CORDDEL A Butcher, who was Buryed alive At <hi>Chriſt-Church,</hi> on <hi>Fryday</hi> laſt being the 21 of <hi>June,</hi> With lamentable Screeks, groans and horrid cryes, made by him in his Grave on <hi>Sunday</hi> night, and the ſad, wounded and mortyfy'd condition he was taken up in on <hi>Munday, June</hi> 24.</p>
+            <p>Alſo the Examination and Confeſſion of His Land-Lord and Land-Lady (<hi>William Cook</hi> and his Wife, at <hi>Pill-cock-Lane</hi> in <hi>Newgate-Market</hi>) before the Right Honorable the Lord Mayor of <hi>LONDON,</hi> by whom they were both Committed to <hi>NEW-GATE-</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Jones,</hi> and are to be ſold at the <hi>Royall Exchange</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Corn-hill,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43470:2"/>
+            <pb n="1" facs="tcp:43470:2"/>
+            <head>A TRUE RELATION OF A Bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cher in Pilcock-lane, who was buryed alive on <hi>Fryday</hi> laſt, at <hi>Christ-Church,</hi> being the 21 of <hi>June</hi> 1661.</head>
+            <p>
+               <seg rend="decorInit">T</seg>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e forwardneſs of people in theſe dayes (by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Coveouſneſs; doth, and hath often<g ref="char:EOLhyphen"/>times cauſed the untimely end of many, who doubtleſs might upon due and ſeaſo<g ref="char:EOLhyphen"/>nable time of funeral, have out-lived thoſe who have ben the cauſe of their untimely end, as might have been ſeen to appear in him who we are here to treat of, had not his Landlady ob<g ref="char:EOLhyphen"/>ſtructed it by her greedy deſire of gain by his untimely and much to be lamented burial.</p>
+            <pb n="2" facs="tcp:43470:3"/>
+            <p> The truth of this horrid act was in brief as followeth, <hi>viz.</hi>
+            </p>
+            <p>That the pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon that was thus inhumanly dealt of was by name <hi>Lawrence Corddial,</hi> by Trade a Butcher of <hi>London,</hi> im<g ref="char:EOLhyphen"/>ployed at ſeveral Slaughter-houſes both at <hi>Smithfield</hi> Barrs, and alſo in the <hi>Shambles,</hi> and by report a man that hath had many fits of the Falling-ſickneſſe, which he hath been trobled ſeveral years.</p>
+            <p>Upon <hi>Thuyſday</hi> laſt being the 21 of this preſent month, he being late out, at length came home full of drink to his Lodging which was at one <hi>William Cook's</hi> houſe a Chandler in <hi>Pill-cock</hi> Lane, near adjacent to the <hi>Shambles</hi> at <hi>Newgate</hi> Market, and there was entertained very jocundly by <hi>Jeze<g ref="char:EOLhyphen"/>bel</hi> his fat Landlady; who to raiſe her one ſtock by the ſins of the people was always willing to keep her tap going to a<g ref="char:EOLhyphen"/>ny ſuch noble Cuſtomers as he, who was eaſily perſwaded to ſpend all in her ſervice.</p>
+            <p>But when he had received as much of the creature, nay none then he could well bear, he took his way to bed, yet in ſuch a condition that he was unable to help himſelf, for he could not make himſelf unready, but when one Stocking was off, he could not pull off the other, ſo he was fain to ly in it all night.</p>
+            <p>On <hi>Fryday</hi> Morning Mris Impudence his fat Land-lady, not finding him up to give her a mornings draught, was in<g ref="char:EOLhyphen"/>quiſitive to know where he was, and going to his chamber he ſeemed to be dead, but yet withal ſomewhat warm, yet ſhe ſtrongly reported that he had no life in him, (which doubt<g ref="char:EOLhyphen"/>leſs was her deſire) to effect which ſhe bought a Coffin, for which ſhe was well paid with the mony he left; nevertheleſs to blind the world ſhe ſold his cloths the very ſame Fry<g ref="char:EOLhyphen"/>day.</p>
+            <p>This being done the Searchers came to ſee the Corps, and feeling him warm ſaid, <hi>There is life in him yet, therefore we wiſh you to forbear the buirl of him for the preſent.</hi> So did
+<pb n="3" facs="tcp:43470:3"/>the poor honeſt man her husband deſire her, <hi>That ſhe would not bury him ſo ſoon b<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> let him ly till next day.</hi>
+            </p>
+            <p>All this would not prevaile with her, for ſhe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old him, <hi>that her neighbours adviſed her otherwiſe, therefore ſhe would bury him out of hand.</hi>
+            </p>
+            <p>Thus having the better of him by wearing the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iches, ſhe like a Mr. of Miſ-rule invited whom ſhe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to the b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry<g ref="char:EOLhyphen"/>al, which was in the afternoon performed with what ſe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſie ſhe poſſibly could, neither of his Siſter<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being invited <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, or any friend of his whatſoever ſo much as acquainted there<g ref="char:EOLhyphen"/>with till the <hi>Sunday</hi> at night following, that they heard of it by the report of the people that heard the rumour about it in <hi>Christ-Church.</hi>
+            </p>
+            <p>Thus this wicked piece of Moatality thought to have ſmo<g ref="char:EOLhyphen"/>thered this her wicked enterpriſe. But yet the crying ſin of blood could not be hid, though it lay obſcure all the Satur<g ref="char:EOLhyphen"/>day following; for upon <hi>Sunday</hi> the three and twentieth inſtant, ſeveral people coming from <hi>Chriſt-Church</hi> towards the place of Burial, they heard a ſad noiſe as it were the groanings of a dying man, about the place where the ſaid <hi>Lawrence Corddel</hi> was buried, upon which the multitude encreaſed, ſeveral people approaching to the place, to hear this doleful ſound.</p>
+            <p>The people liſtning diligently heard lamentable Screeks, ſad crys and a rumbling noiſe, and after inquiry who was bu<g ref="char:EOLhyphen"/>ryed there, it was declared to be the Butcher that lay at Mr. <hi>Cooks</hi> in <hi>Pil cock</hi> Lane.</p>
+            <p>Whereupon night drawing on the multitude decreaſed, but ſome of them ſpake to the Sexton to dig up the Grave, but he told them he could not without order, wherefore they all went home for that night, by this means his ſiſters came to underſtand the ſad and lamentable ſuffering of their bro<g ref="char:EOLhyphen"/>ther, who lay in this miſerable torture till the next Morn<g ref="char:EOLhyphen"/>ing to the great grief of them, and the wonderful amaze<g ref="char:EOLhyphen"/>ment of ſome who lived near the Church-yard, to whoſe reſt<g ref="char:EOLhyphen"/>leſs ears the ſad groans of their poor brother did aſcend that night.</p>
+            <pb n="4" facs="tcp:43470:4"/>
+            <p> Yeſterday being <hi>Monday</hi> ſeveral perſons living about <hi>Chriſt Church,</hi> gave further information that they heard (in the night ſea<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g ſeveral groans and lamentable ſcreeks, ma<g ref="char:EOLhyphen"/>king g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat complaint that he was not taken up that he might if poſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble be preſerved.</p>
+            <p>Whereupon order being given for opening the grave, one <hi>George Day</hi> the grave-maker at St. <hi>Gile<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Cripplegate,</hi> did with much d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligence (by the aſſiſtance of ſome othe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s) take up the Corps, and laid it ready for the view of the Crowners many hundreds of people flocking thither to ſee the ſame, which indeed was a ſad and lamentable ſpectacle to the eye of each Spectator.</p>
+            <p>For in the grave he had ſo mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tified himſelf that hardly a place was free in his body from bruiſes, his head wounded, his Face beaten flat, his Arms, bruiſed, his belly, back ſides and Leggs and feet were ſad to behold for any one that had but the leſt ſpark of Chriſtianity.</p>
+            <p>The horrioneſs of this inhumane burial being taken into conſideration, Meſſengers were ſent to <hi>Pil-cock</hi> lane, who were not backward in a work of ſo high conce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nment, but did with all expedition haſten thither, and ſeaſed on his barba<g ref="char:EOLhyphen"/>rous <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and-lady, who with Mr. <hi>Cook</hi> her husband was brought before the Lord Mayor, and being examined why he buried him ſo ſoon, he anſwered, That he would not have had his wife bury him till <hi>Saturday,</hi> but ſhe would be Maſter whether he would or no. And after examination their <hi>Mittimus</hi> was made, and immediatly they were conveyed by the Offi<g ref="char:EOLhyphen"/>cers to <hi>New-gate,</hi> upon ſuſpicion of murthering the ſaid But<g ref="char:EOLhyphen"/>cher.</p>
+            <p>In which place ſhe is to continue till the next Seſſions, at which time if ſhe do not give a better account then ſhe hath done, no doubt but juſtice will be inflicted according to her deſerts.</p>
+            <p>The houſe he lay in hath an ill report amongſt neighbours, it being a place frequented by many perſons of little or no credit, and a houſe of ill Orders and ill hours, which adds ſomewhat more to this horrid act.</p>
+            <pb n="5" facs="tcp:43470:4"/>
+            <p> This is a true account of the barbarous and inhumane buri<g ref="char:EOLhyphen"/>all of this poor man whoſe horrid murther cry'd aloud for vengeance, and may well be a warning to all covetous min<g ref="char:EOLhyphen"/>ded muck-worms, that they be careful hereafter how they e<g ref="char:EOLhyphen"/>ver hereafter have a hand in the death of any ſuch perſon, by putting them in the ground ſo ſoon after their departure; for nothing can be ſo ſecretly done, but their is an omnipo<g ref="char:EOLhyphen"/>tent power that will make it known, though by ſuch means as cannot be imagined by us poor mortals. The ſin of blood being a crying ſin, that will ſurely be repay'd, and fall heavy on the heads of those that ſhall conceale ſuch horrid cruel<g ref="char:EOLhyphen"/>ties.</p>
+            <p>Therefore it behoves all men to be careful how they are maſtered <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y their wives, and are ſilent in ſuch cruelties, leaſt they ſuffer for their inhumane practiſes, from doing which the Lord oeliver all good Chriſtians.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
